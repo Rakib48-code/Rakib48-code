@@ -1,3 +1,6 @@
+ Hey! Nice to see you.
+I'm Rakib 😀
+
 - 👋 Hi, I’m @Rakib hasan
 - 👀 I’m interested in python,
 - 🌱 I’m currently learning python odoo,
